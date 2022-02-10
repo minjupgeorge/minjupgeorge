@@ -4,7 +4,7 @@
   + ME Computer Science and Engineering,2010-2012
     - ANNA UNIVERSITY Rank-36
     
-## Professtional Skills
+## Professional Skills
    + C,C++,Java,Python
    + HTML/CSS
    + MySQL
@@ -15,7 +15,7 @@
 | KCG College of Technology   | Assistant Professor | 2016 -2019 |
 | Cognizant Technology Solutions | Programmer Analyst| 2012-2013 |
 
- 
+
 - 👀 I am interested in coding,learning new technologies and teaching those who loves programming.
 - 🌱 I am currently updating my skills in web development and python with mySQL
 - 💞️ I am looking to collaborate on attractive website / python /machine learning projects
