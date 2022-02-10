@@ -1,5 +1,21 @@
  ### Hi I am Minju P George.
  #### I am an Indian residing in Brussels,Belgium.
+Iam very enthusiastic person who always finds ways to make myself Happy and being positive.
+
+## Education
+  + ME Computer Science and Engineering,2010-2012
+    - ANNA UNIVERSITY Rank-36
+    
+## Professtional Skills
+   + C,C++,Java,Python
+   + HTML/CSS
+   + MySQL
+   
+## Experience
+| Organisation | Role | Duration |
+| --: | --:| --:|
+| KCG College of Technology   | Assistant Professor | 2016 -2019 |
+| Cognizant Technology Solutions | Programmer Analyst| 2012-2013 |
 
  
 - 👀 I am interested in coding,learning new technologies and teaching those who loves programming.
