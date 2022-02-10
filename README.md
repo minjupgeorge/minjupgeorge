@@ -1,4 +1,5 @@
-- 👋 Hi, I’m minjupgeorge
+- 👋 ## Hi, I’m minjupgeorge
+- 
 - 👀 I’m interested in coding,learning and even teaching those who hate programming.
 - 🌱 I’m currently learning web development and python with mySQL
 - 💞️ I’m looking to collaborate on attractive website / python /machine learning projects
