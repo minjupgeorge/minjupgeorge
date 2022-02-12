@@ -1,4 +1,4 @@
-### Hi I am Minju P George.
+### Hi, I am Minju P George.
 #### I am an Indian residing in Brussels,Belgium.
 ## Education
   + ME Computer Science and Engineering,2010-2012
