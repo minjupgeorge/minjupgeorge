@@ -19,7 +19,7 @@
 - 👀 I am interested in coding,learning new technologies and teaching those who loves programming.
 - 🌱 I am currently updating my skills in web development and python with mySQL
 - 💞️ I am looking to collaborate on attractive website / python /machine learning projects
-- ⏲️ I Love to take pics📷 while travelling and store in my memory then baking 🍰 and some indoor gardening 🎋.
+- ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening 🎋are some of my hobbies.
 - 😃 Iam very enthusiastic person who always finds ways to make myself Happy and being positive.
 - 📫 How to reach me: [gmail](minjupgeorge@gmail.com)/[LinkedIn](https://www.linkedin.com/in/minju-george-aabb96159/)
 <!---
