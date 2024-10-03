@@ -23,7 +23,7 @@
 | Hack Your Future,Brussels   | Volunteer Coach,JavaScript         | 2023 |
 | Hack Your Future,Brussels   | Front-end Developer,Apprenticeship | 2022 |
 | KCG College of Technology, India      | Computer Instructor      | 2016 -2019|
-| FIMA,Finland                | Language Tutor  |                  | 2015-2016 |
+| FIMA,Finland                | Language Tutor                     | 2014-2015 |
 | Cognizant Technology Solutions,India  | Programmer Analyst       | 2012-2013 |
 
 
