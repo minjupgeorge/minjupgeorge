@@ -18,7 +18,7 @@
 ## Experience
 | Organisation | Role | Duration |
 | --: | --:| --:|
-| Hack Your Future   |Front-end Developer,Apprenticeship  | 2024 |
+| Hack Your Future   | Back-end Developer,Apprenticeship  | 2024 |
 | Value Networks     | Web Developer                      | 2024 |
 | Hack Your Future   | Volunteer Coach,JavaScript         | 2023 |
 | Hack Your Future   | Front-end Developer,Apprenticeship | 2022 |
