@@ -6,9 +6,10 @@
     
 ## Professional Skills
    + C,C++,Java,Python
+   + JavaScript
    + HTML/CSS
-   + React
-   + Node js npm
+   + Reactjs
+   + Nodejs
    + figma
    + postman
    + strapiSQlite
