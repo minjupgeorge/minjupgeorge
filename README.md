@@ -18,12 +18,13 @@
 ## Experience
 | Organisation | Role | Duration |
 | --: | --:| --:|
-| Hack Your Future   | Back-end Developer                 | 2024 |
-| Value Networks     | Web Developer                      | 2024 |
-| Hack Your Future   | Volunteer Coach,JavaScript         | 2023 |
-| Hack Your Future   | Front-end Developer,Apprenticeship | 2022 |
-| KCG College of Technology      | Computer Instructor    | 2016 -2019 |
-| Cognizant Technology Solutions | Programmer Analyst     | 2012-2013 |
+| Hack Your Future,Brussels   | Back-end Developer                 | 2024 |
+| Value Networks,Leuven       | Web Developer                      | 2024 |
+| Hack Your Future,Brussels   | Volunteer Coach,JavaScript         | 2023 |
+| Hack Your Future,Brussels   | Front-end Developer,Apprenticeship | 2022 |
+| FIMA,Finland  | Language Tutor  |                                | 2022 |
+| KCG College of Technology, India      | Computer Instructor      | 2016 -2019 |
+| Cognizant Technology Solutions,India  | Programmer Analyst       | 2012-2013 |
 
 
 - 👀 I am interested in coding,learning new technologies and teaching those who loves programming.
