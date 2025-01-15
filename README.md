@@ -6,6 +6,7 @@
     
 ## Professional Skills
    + C,C++,Java,Python
+   + Flask
    + JavaScript
    + HTML/CSS
    + Reactjs
@@ -14,6 +15,7 @@
    + postman
    + strapiSQlite
    + MySQL
+   + Mongodb
    
 ## Experience
 | Organisation | Role | Duration |
