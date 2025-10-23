@@ -1,5 +1,5 @@
 ### Hi, I am Minju P George.
-#### I am an Indian residing in Brussels,Belgium.
+#### I am an Indian residing in Eindhoven, Netherlands.
 ## Education
   + ME Computer Science and Engineering,2010-2012
     - ANNA UNIVERSITY Rank-36
